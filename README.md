@@ -66,7 +66,7 @@ Creates a downloadable PDF report.
 🔗 Integration with ATS systems
 
 👩‍💻 Author
-📧 aks.sinha002@gmail.com
+📧 Himanshi2006sinha@gmail.com
 
 ⭐ Show Support
 
